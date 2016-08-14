@@ -1,0 +1,15 @@
+.list-images{
+    list-style: none;
+    overflow: hidden;
+}
+
+.list-images li {
+    float: left;
+    width: 30.33%;
+    padding: 0 5px;
+}
+
+.list-images li img{
+    width: 100%;
+    height: 200px;
+}
